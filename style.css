@@ -1,0 +1,15 @@
+  
+body {
+    text-align: center;
+    background: black;
+  }
+  
+  canvas {
+    border: 2px solid white;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: left;
+  }
